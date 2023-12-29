@@ -58,6 +58,8 @@ on:
           - leez
           - nanopi-r5c
           - nanopi-r5s
+          - nanopi-r6c
+          - nanopi-r6s
           - panther-x2
           - r66s
           - r68s
